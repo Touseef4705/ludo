@@ -1,0 +1,23 @@
+.border {
+    border-collapse: collapse;
+}
+
+.Box {
+    height: 30px;
+    width: 30px;
+}
+
+.ludoimg {
+    margin: auto 26px;
+    border-radius: 15px;
+}
+table{
+    margin: 20px auto;
+}
+
+@media (max-width:600px) {
+    table{
+        height: 100px;
+        width: 100px;
+    }
+}
